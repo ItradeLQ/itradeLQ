@@ -1,3 +1,4 @@
+![ezgif-2-7cce9c2563](https://github.com/ItradeLQ/itradeLQ/assets/112427894/85d830b3-23eb-4c2d-a5e4-9797f3538010)
 
 <h1 align="center">Hi, I'm Kenronishe Gumbs</h1>
 <h3 align="center">A passionate IT Support Analyst</h3>
