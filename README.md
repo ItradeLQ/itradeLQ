@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kenronishe Gumbs</h1>
-<h3 align="center">A passionate IT Support Analyst</h3>
+<h3 align="center">A passionate IT Support Professional</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
