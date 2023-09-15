@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
-- ☁ Aspiring **Cybersecurity Engineer**
+- ☁ Aspiring **Cybersecurity Professional**
    
 - 🌱 I’m currently learning **Cybersecurity and SQL**
 
