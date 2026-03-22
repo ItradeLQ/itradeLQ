@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kendrick </h1>
-<h3 align="center">A passionate IT Professional</h3>
+<h3 align="center">I enjoy learning IT as a hobby to stay current with advancing technology and continuously expand my knowledge.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
