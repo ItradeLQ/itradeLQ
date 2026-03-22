@@ -5,11 +5,11 @@
 
 - ☁ Aspiring **Cybersecurity Professional**
    
-- 🌱 I’m currently learning **Cybersecurity and SQL**
+- 🌱 I’m currently learning **AI & Excel to optimize my workflow**
 
-- 💬 Ask me about **IT, Cybersecurity, General Talk**
+- 💬 Ask me about **IT, AI General Talk**
 
-- 📫 How to reach me **kenronishe.gumbs@gmail.com**
+- 📫 How to reach me **ken.lovell90@gmail.com**
 
 - ⚡ Fun fact **I enjoy basketball, spearfishing, and freediving**
 
